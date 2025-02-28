@@ -1,0 +1,154 @@
+body{
+    background-color:rgb(226, 198, 252);
+   
+}
+.titulo-site{
+    text-align: center;
+    
+
+}
+
+.titulo-noticia1{
+  
+   font-family: Arial, sans-serif;
+   margin: 20px;
+}
+.subtitulo-noticia1{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.noticia1{
+    margin: 20px;
+    font-family: Arial;
+}
+.imagem1{
+    
+    margin: 20px;
+    
+}
+.titulo-noticia2{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.subtitulo-noticia2{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.noticia2{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+
+}
+.imagem2{
+    margin: 20px;
+}
+.titulo-noticia3{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.subtitulo-noticia3{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.noticia3{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.imagem3{
+    margin: 20px;
+}
+.noticia3-1{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.imagem3-1{
+    margin: 20px;
+}
+.noticia3-2{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.imagem3-2{
+    margin: 20px;
+}
+.noticia4{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subtitulo-noticia4{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto-noticia4{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+
+}
+.dia1{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.texto-grupo-prata{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.texto-grupo-ouro{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.dia2{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto2-grupo-prata{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.texto2-grupo-ouro{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+
+table{
+    width: 60%;
+    margin: 20px;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+th, td{
+    padding: 12px;
+    border: white;
+    text-align: left;
+
+}
+th{
+    background-color: #333;
+    color: white;
+
+}
+
+tr:hover{
+    background-color: #f1f1f1;
+}
+
+.titulo-classificação{
+    margin: 20px;
+}
+.subtitulo-classificação{
+    margin: 20px;
+}
+.serie-prata{
+    margin: 20px;
+}
+.subtitulo-serie-prata{
+    margin: 20px;
+}
+.serie-bronze{
+    margin: 20px;
+}
+.subtitulo-serie-bronze{
+    margin: 20px;
+}
